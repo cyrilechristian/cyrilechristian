@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/cyrilechristian>
+<a href="https://github.com/cyrilechristian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyrilechristian&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilechristian&theme=buefy&layout=compact" />
 </a>
