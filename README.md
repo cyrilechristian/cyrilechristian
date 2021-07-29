@@ -51,8 +51,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/christian-niyokwizerwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20NIYOKWIZERWA-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/in/cyrilechristian/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Christian%20NIYOKWIZERWA-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/christian-niyokwizerwa/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-Christian%20NIYOKWIZERWA-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.twitter.com/us/cyrilechristian/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Cyrile%Christian-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
