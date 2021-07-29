@@ -51,7 +51,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/christian-niyokwizerwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cyrile%20Christian%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/christian-niyokwizerwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cyrile%20Christian-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/cyrilechristian/"><img alt="Twitter" src="https://img.shields.io/badge/twitter-cyrilechristian_-blue?style=flat-square&logo=twitter"></a>
 </p>
 
