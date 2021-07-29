@@ -51,7 +51,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/christian-niyokwizerwa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christian%20NIYOKWIZERWA-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/cyrilechristian/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-cyrilechristian-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:cniyokwizerwa17@alustudent.com"><img alt="Email" src="https://img.shields.io/badge/Email-cniyokwizerwa17@alustudent.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:cniyokwizerwa17@alustudent.com"><img alt="Email" src="https://img.shields.io/badge/Email-cniyokwizerwa17@alustudent.com-blue?styleflat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
