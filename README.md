@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Christian.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; B.s. Computer Science | African Leadership University.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Cloud Computing | Artificial Intelligence | Blockchain
+- 🌱 &nbsp; Full Stack: Cloud Computing | Artificial Intelligence | Blockchain
 - ✍️ &nbsp; Programming Languages: Javascript | Typescript | Python.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
