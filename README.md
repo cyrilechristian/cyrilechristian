@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; B.s. Computer Science | African Leadership University.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Full Stack: Cloud Computing | Artificial Intelligence | Blockchain
+- 🌱 &nbsp; Stack - Interest: Cloud Computing | Artificial Intelligence | Blockchain
 - ✍️ &nbsp; Programming Languages: Javascript | Typescript | Python.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
